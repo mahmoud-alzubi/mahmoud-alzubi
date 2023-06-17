@@ -1,13 +1,13 @@
-# Mahmoud AlZu'bi
+# Mahmoud AlZu'bi ✨
 
-## About Me
+## About Me 💻
 
 Experienced Java programmer passionate about creating efficient, scalable, and high-performance code. Skilled in Java, Spring, 
 and Hibernate. Strong understanding of object-oriented programming and design patterns. Proven ability to deliver successful 
 and high-quality work on time. Always eager to learn new technologies and stay current with industry trends. Strong collaborator 
 and communicator, able to work effectively with cross-functional teams to deliver high results. 
 
-## Education
+## Education 🎓
 
 - Master of Science in Computer Information Systems 
 Yarmouk University • Irbid • 2023 
@@ -16,11 +16,11 @@ Yarmouk University • Irbid • 2023
 Yarmouk University • Irbid • 2019 
 
 
-## Skills
+## Skills 🚀
 
-- Technical Skills: Java, Object-oriented Programming (OOP), Java Database Connectivity (JDBC), Java Persistence API 
-(JPA), Spring, Spring Boot, Maven, REST APIs, Data Caching, Microservice, Hibernate, Oracle Database, Microsoft SQL 
-Server, PostgreSQL, HTML, CSS, Java Server Faces (JSF), JavaScript, PrimeFaces, Bootstrap, Apache Tomcat, Git, 
+- Technical Skills: Java ☕️, Object-oriented Programming (OOP), Java Database Connectivity (JDBC), Java Persistence API 
+(JPA) 🗄️, Spring, Spring Boot 🌱, Maven, REST APIs, Data Caching, Microservice, Hibernate 🏰, Oracle Database, Microsoft SQL 
+Server 📊, PostgreSQL, HTML, CSS, Java Server Faces (JSF), JavaScript, PrimeFaces, Bootstrap, Apache Tomcat, Git 🐙, 
 TortoiseGit, Javadoc, Swagger Documentation, GitHub, GitLab, JUnit testing, Mockito testing, and Load testing.
 
 - Soft Skills: Interpersonal Communication, Delivering Presentation, Teamwork, and Team Building.
@@ -39,14 +39,14 @@ TortoiseGit, Javadoc, Swagger Documentation, GitHub, GitLab, JUnit testing, Mock
   programming.
 
 
-## Projects (Feel free to explore my repositories and contributions ^_^)
+## Projects 🚧 (Feel free to explore my repositories and contributions)
 
-- [simple-microservice-example](https://github.com/mahmoud-alzubi/simple-microservice-example)
+- [simple-microservice-example](https://github.com/mahmoud-alzubi/simple-microservice-example) 📂
 
 
-## Contact Me
+## Contact Me 📞
 
-- Email: m7moudzo3bi@gmail.com
+- Email: m7moudzo3bi@gmail.com 📧
 - LinkedIn: [linkedin.com/in/mahmoud-alzubi](https://www.linkedin.com/in/mahmoud-alzubi)
 
 ## Languages
