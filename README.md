@@ -1,23 +1,11 @@
-# Mahmoud
+# Mahmoud AlZu'bi
 
 ## About Me
 
-I'm Mahmoud, a Java developer with 2 years of experience. I'm passionate about working with the Spring and Spring Framework.
-
-## Skills
-
-- Java
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate
-- RESTful APIs
-- SQL
-- Git
-
-## Projects
-
-- [simple-microservice-example](https://github.com/mahmoud-alzubi/simple-microservice-example)
+Experienced Java programmer passionate about creating efficient, scalable, and high-performance code. Skilled in Java, Spring, 
+and Hibernate. Strong understanding of object-oriented programming and design patterns. Proven ability to deliver successful 
+and high-quality work on time. Always eager to learn new technologies and stay current with industry trends. Strong collaborator 
+and communicator, able to work effectively with cross-functional teams to deliver high results. 
 
 ## Education
 
@@ -28,25 +16,39 @@ Yarmouk University • Irbid • 2023
 Yarmouk University • Irbid • 2019 
 
 
+## Skills
+
+- Technical Skills: Java, Object-oriented Programming (OOP), Java Database Connectivity (JDBC), Java Persistence API 
+(JPA), Spring, Spring Boot, Maven, REST APIs, Data Caching, Microservice, Hibernate, Oracle Database, Microsoft SQL 
+Server, PostgreSQL, HTML, CSS, Java Server Faces (JSF), JavaScript, PrimeFaces, Bootstrap, Apache Tomcat, Git, 
+TortoiseGit, Javadoc, Swagger Documentation, GitHub, GitLab, JUnit testing, Mockito testing, and Load testing.
+
+- Soft Skills: Interpersonal Communication, Delivering Presentation, Teamwork, and Team Building.
+  
+- Other Skills: Microsoft Teams, Confluence, Jira , Visual Paradigm, Postman, MobaXterm, Linux, IBM AIX, and CI/CD. 
 
 ## Certifications
 
 - National ICT Up-Skilling program (340hrs) 
     HTU – Hussein Technical University • 2020 
-    Extensive training in Web Development Technology (180hrs), Employability Soft Skills (60hrs), and English Language (100hrs). 
+    An intensive training in Web Development Technology (180hrs), Employability Soft Skills (60hrs), and English Language (100hrs). 
 
 - Java Level 1 
   Cambridge Certification Authority • 2019 
   Strong foundation in Java programming fundamentals, including syntax, data types, control structures, and object-oriented 
   programming.
 
-## GitHub
 
-You can find my GitHub profile at [github.com/mahmoud-alzubi](https://github.com/mahmoud-alzubi). Feel free to explore my repositories and contributions.
+## Projects (Feel free to explore my repositories and contributions ^_^)
+
+- [simple-microservice-example](https://github.com/mahmoud-alzubi/simple-microservice-example)
+
 
 ## Contact Me
 
 - Email: m7moudzo3bi@gmail.com
 - LinkedIn: [linkedin.com/in/mahmoud-alzubi](https://www.linkedin.com/in/mahmoud-alzubi)
 
-Looking forward to connecting and collaborating with fellow developers!
+## Languages
+ 
+Arabic – Native | English – Intermediate
