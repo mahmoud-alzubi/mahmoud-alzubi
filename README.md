@@ -39,9 +39,10 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
   programming.
 
 
-## Projects 🚧 (Feel free to explore my repositories and contributions)
+## Projects 🚧
 
 - [simple-microservice-example](https://github.com/mahmoud-alzubi/simple-microservice-example) 📂
+
 
 
 ## Contact Me 📞
