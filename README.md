@@ -52,4 +52,5 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 
 ## Languages 🌐
  
-Arabic – Native | English – Intermediate
+-  Arabic – Native
+-  English – Intermediate
