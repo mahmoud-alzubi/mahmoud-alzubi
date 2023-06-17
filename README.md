@@ -17,7 +17,7 @@ I'm Mahmoud, a Java developer with 2 years of experience. I'm passionate about w
 
 ## Projects
 
-- [Project 1](https://github.com/mahmoud-alzubi/simple-microservice-example): simple-microservice-example
+- [simple-microservice-example](https://github.com/mahmoud-alzubi/simple-microservice-example)
 
 ## Education
 
