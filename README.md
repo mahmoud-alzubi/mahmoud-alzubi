@@ -10,10 +10,10 @@ and communicator, able to work effectively with cross-functional teams to delive
 ## Education 🎓
 
 - Master of Science in Computer Information Systems 
-Yarmouk University • Irbid • 2023 
+Yarmouk University • Jordan • 2023 
 
 - Bachelor of Science in Computer Information Systems 
-Yarmouk University • Irbid • 2019 
+Yarmouk University • Jordan • 2019 
 
 
 ## Skills 🚀
