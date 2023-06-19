@@ -42,6 +42,7 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 ## Projects 🚧
 
 - [simple-microservice-example](https://github.com/mahmoud-alzubi/simple-microservice-example) 📂
+- [simple-jpa-microservice](https://github.com/mahmoud-alzubi/simple-jpa-microservice) 📂
 
 
 
