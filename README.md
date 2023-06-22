@@ -43,6 +43,7 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 
 - [simple-microservice](https://github.com/mahmoud-alzubi/simple-microservice-example) 📂
 - [simple-jpa-microservice](https://github.com/mahmoud-alzubi/simple-jpa-microservice) 📂
+- [custom-exception-and-handling](https://github.com/mahmoud-alzubi/custom-exception-and-handling) 📂
 
 
 
