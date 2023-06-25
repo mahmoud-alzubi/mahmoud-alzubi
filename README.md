@@ -42,11 +42,11 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 ## Projects 🚧
 
 #### Medium Projcets
-[microservice-employees-data](https://github.com/mahmoud-alzubi/microservice-employees-data) 📂 &nbsp;&nbsp; 
+📂 [microservice-employees-data](https://github.com/mahmoud-alzubi/microservice-employees-data)  &nbsp;&nbsp; 
 
 
 #### Small Projcets
-[microservice-logger](https://github.com/mahmoud-alzubi/microservice-logger) 📂 &nbsp; &nbsp; &nbsp; [custom-exception-and-handling](https://github.com/mahmoud-alzubi/custom-exception-and-handling) 📂  &nbsp; &nbsp; &nbsp; [global-exception-handling](https://github.com/mahmoud-alzubi/global-exception-handling) 📂  &nbsp; &nbsp;&nbsp;  [simple-microservice](https://github.com/mahmoud-alzubi/simple-microservice-example) 📂 <br><br>  [simple-jpa-microservice](https://github.com/mahmoud-alzubi/simple-jpa-microservice) 📂 
+📂 [microservice-logger](https://github.com/mahmoud-alzubi/microservice-logger)  &nbsp; &nbsp; &nbsp; 📂 [custom-exception-and-handling](https://github.com/mahmoud-alzubi/custom-exception-and-handling)   &nbsp; &nbsp; &nbsp; 📂 [global-exception-handling](https://github.com/mahmoud-alzubi/global-exception-handling)   &nbsp; &nbsp;&nbsp;  📂 [simple-microservice](https://github.com/mahmoud-alzubi/simple-microservice-example)  <br><br>  📂 [simple-jpa-microservice](https://github.com/mahmoud-alzubi/simple-jpa-microservice)  
 
 
 
