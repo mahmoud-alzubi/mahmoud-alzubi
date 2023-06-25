@@ -46,11 +46,12 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 
 
 #### Small Projcets
-- [simple-microservice](https://github.com/mahmoud-alzubi/simple-microservice-example) 📂
+- [microservice-logger](https://github.com/mahmoud-alzubi/microservice-logger) 📂
 - [simple-jpa-microservice](https://github.com/mahmoud-alzubi/simple-jpa-microservice) 📂
 - [custom-exception-and-handling](https://github.com/mahmoud-alzubi/custom-exception-and-handling) 📂
 - [global-exception-handling](https://github.com/mahmoud-alzubi/global-exception-handling) 📂
-- [microservice-logger](https://github.com/mahmoud-alzubi/microservice-logger) 📂
+- [simple-microservice](https://github.com/mahmoud-alzubi/simple-microservice-example) 📂
+
 
 
 ## Contact Me 📞
