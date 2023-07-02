@@ -41,8 +41,11 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 
 ## Projects 🚧
 
+### Large Projects
+- 📂 [microservice-elearning-data](https://github.com/mahmoud-alzubi/microservice-elearning-data) 
+
 #### Medium Projcets
-- 📂 [microservice-employees-data](https://github.com/mahmoud-alzubi/microservice-employees-data)  &nbsp;&nbsp; 
+- 📂 [microservice-employees-data](https://github.com/mahmoud-alzubi/microservice-employees-data) 
 
 
 #### Small Projcets
