@@ -48,7 +48,7 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 - 📂 [microservice-employees-data](https://github.com/mahmoud-alzubi/microservice-employees-data) 
 
 
-#### Small Projcets
+##### Small Projcets
 - 📂 [microservice-logger](https://github.com/mahmoud-alzubi/microservice-logger)
 - 📂 [custom-exception-and-handling](https://github.com/mahmoud-alzubi/custom-exception-and-handling)
 - 📂 [global-exception-handling](https://github.com/mahmoud-alzubi/global-exception-handling)
