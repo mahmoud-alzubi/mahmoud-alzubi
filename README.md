@@ -30,15 +30,15 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 ## Certifications 📜
 
 - Spring Boot 3, Spring 6 & Hibernate (52.5hrs)
-     <br/>Udemy.com • 2023
+     <br/>Udemy.com • 2023 <br/>
     Spring 6, Spring REST API, Spring MVC, Spring Security, JPA & Hibernate.
 
 - National ICT Up-Skilling program (340hrs) 
-    <br/>HTU – Hussein Technical University • 2020 
+    <br/>HTU – Hussein Technical University • 2020 <br/>
     An intensive training in Web Development Technology (180hrs), Employability Soft Skills (60hrs), and English Language (100hrs) 💥🔥. 
 
 - Java Level 1 
-  <br/> Cambridge Certification Authority • 2019 
+  <br/> Cambridge Certification Authority • 2019 <br/> 
   Strong foundation in Java programming fundamentals, including syntax, data types, control structures, and object-oriented 
   programming.
 
