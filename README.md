@@ -49,13 +49,13 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 - 📂 [microservice-elearning-data](https://github.com/mahmoud-alzubi/microservice-elearning-data) 
 
 #### Medium Projcets
-- 📂 [microservice-product-data](https://github.com/mahmoud-alzubi/microservice-product-data)
+- 📂 [microservice-products-data](https://github.com/mahmoud-alzubi/microservice-product-data)
 - 📂 [microservice-employees-data](https://github.com/mahmoud-alzubi/microservice-employees-data)
 
 
 
 ##### Small Projcets
-- 📂 [microservice-order-data](https://github.com/mahmoud-alzubi/microservice-order-data)
+- 📂 [microservice-orders-data](https://github.com/mahmoud-alzubi/microservice-order-data)
 - 📂 [simple-jdbc-microservice](https://github.com/mahmoud-alzubi/simple-jdbc-microservice)
 - 📂 [simple-jpa-microservice](https://github.com/mahmoud-alzubi/simple-jpa-microservice)
 - 📂 [simple-mongodb-microservice](https://github.com/mahmoud-alzubi/microservice-data-mongodb)
