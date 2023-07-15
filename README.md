@@ -46,7 +46,7 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 ## Projects 🚧
 
 ### Large Projects
-- 📂 [mstore 🛒](https://github.com/mahmoud-alzubi/mstore)
+- 📂 [MStore 🛒](https://github.com/mahmoud-alzubi/mstore)
 
 #### Medium Projcets
 - 📂 [microservice-elearning-data](https://github.com/mahmoud-alzubi/microservice-elearning-data) 
