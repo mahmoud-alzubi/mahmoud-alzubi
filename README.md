@@ -20,7 +20,7 @@ Yarmouk University • Jordan • 2019
 
 - Technical Skills: Java ☕️, Object-oriented Programming (OOP), Java Database Connectivity (JDBC), Java Persistence API 
 (JPA) 🗄️, Spring, Spring Boot 🌱, Maven, REST APIs, Data Caching, Microservice, Hibernate 🏰, Oracle Database, Microsoft SQL 
-Server 📊, PostgreSQL, HTML, CSS, Java Server Faces (JSF), JavaScript, PrimeFaces, Bootstrap, Apache Tomcat, Git 🐙, 
+Server 📊, PostgreSQL, HTML, CSS, JavaScript, Bootstrap, Apache Tomcat, Git 🐙, 
 TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testing, Mockito testing, and Load testing.
 
 - Soft Skills: Interpersonal Communication, Delivering Presentation, Teamwork 🤝, and Team Building.
