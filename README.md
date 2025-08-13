@@ -2,10 +2,13 @@
 
 ## About Me 💻
 
-Experienced Java programmer passionate about creating efficient, scalable, and high-performance code. Skilled in Java, Spring, 
-and Hibernate. Strong understanding of object-oriented programming and design patterns. Proven ability to deliver successful 
-and high-quality work on time. Always eager to learn new technologies and stay current with industry trends. Strong collaborator 
-and communicator, able to work effectively with cross-functional teams to deliver high results. 
+Experienced backend developer with a passion for building efficient, scalable, and high-performance systems. Proficient in Java, Spring, Spring Boot, Hibernate, and experienced with databases such as MongoDB, OracleDB, and MySQL, as well as caching and messaging technologies including Redis and Kafka.
+
+Skilled in designing and implementing REST APIs and microservices architectures, with a proven track record of delivering high-quality solutions on time and to specification.
+
+Continuously learning and staying ahead of industry trends, I thrive in collaborative environments—communicating effectively with cross-functional teams to turn complex requirements into impactful results.
+
+
 
 ## Education 🎓
 
