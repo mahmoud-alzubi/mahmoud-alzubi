@@ -72,8 +72,6 @@ TortoiseGit 🐢 , Javadoc, Swagger Documentation , GitHub, GitLab, JUnit testin
 ## Contact Me 📞
 
 - Email: m7moudzo3bi@gmail.com 📧
-- LinkedIn: [linkedin.com/in/mahmoud-alzubi](https://www.linkedin.com/in/mahmoud-alzubi) 🔗
-- Phone: +962786693676 📱
 
 ## Languages 🌐
  
